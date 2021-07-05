@@ -1,0 +1,57 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.f-color {
+    color:rgb(255, 187, 0);
+}
+
+section {
+    display: flex;
+    margin-bottom: 10%;
+
+}
+
+small {
+    color: gray;
+}
+
+p {
+    text-align: justify;
+}
+
+.wid {
+    width: 50%;
+    padding-left: 1%;
+    
+
+}
+
+.wid img {
+    display: block;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.about {
+    color: white;
+    background-image: linear-gradient(skyblue,blue);
+    border-radius: 5px;
+}
+
+.top-img {
+    background-image: url(show-off/top-banner.png);
+    background-repeat: no-repeat;
+    
+    
+    
+}
+
+.top-img2 {
+    background-image: url(show-off/dream-bg.png);
+    background-repeat: no-repeat;
+    
+    background-position: right;
+}
